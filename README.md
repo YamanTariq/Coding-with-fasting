@@ -1,5 +1,11 @@
 # Coding-with-fasting
 
+## Number of problems completed
+Total: 5  
+C: 1  
+Java: 4  
+
+
 ## C
 This folder contains all the problems that I will solve using C
 
