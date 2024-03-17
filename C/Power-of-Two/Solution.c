@@ -6,6 +6,8 @@
 bool isPowerOfTwo(int n) {
 
     int sum = 1;
+    if (n <= 0 || (n % 2 != 0 && n != 1))
+        return false;
 
     while(sum < n/2 + 1){
 
