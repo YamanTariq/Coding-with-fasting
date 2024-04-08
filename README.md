@@ -1,9 +1,10 @@
 # Coding-with-fasting
 
 ## Number of problems completed
-Total: 12  
+Total: 13  
 C: 5  
 Java: 7  
+Python: 1  
 
 
 ## C
